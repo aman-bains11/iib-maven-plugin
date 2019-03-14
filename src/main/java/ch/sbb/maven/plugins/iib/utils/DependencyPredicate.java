@@ -7,12 +7,10 @@ import org.apache.commons.beanutils.PropertyUtils;
 import org.apache.commons.collections.Predicate;
 
 /**
+ *
+ *
+ *
  * 
- * 
- * 
- * @author u219237 (Pascal Moser)
- * @version $Id: $
- * @since 3.1, 2015
  */
 public class DependencyPredicate implements Predicate {
 
